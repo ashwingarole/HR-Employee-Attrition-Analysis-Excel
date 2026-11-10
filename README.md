@@ -18,7 +18,7 @@ This project analyzes employee attrition dynamics across a workforce of **99,990
 ### Report 1: Attrition Overview
 Focuses on workforce demographics, departmental trends, job roles, salary bands, and tenure distribution.
 
-![Attrition Overview](images/report1_overview.png)
+![Attrition Overview](Images/report1_overview.png)
 
 * **Departmental Split:** Sales records the highest attrition rate at **20.59%**, followed by HR at **17.72%** and R&D at **13.65%**.
 * **Age Dynamics:** Highest turnover is concentrated in early-career professionals aged **18–25 (35.38%)**, dropping significantly in the **36–45 (9.32%)** bracket.
@@ -30,7 +30,7 @@ Focuses on workforce demographics, departmental trends, job roles, salary bands,
 ### Report 2: Attrition Drivers Analysis
 Evaluates operational, compensation, and lifestyle factors influencing employee decisions to leave.
 
-![Attrition Drivers Analysis](images/report2_drivers.png)
+![Attrition Drivers Analysis](Images/report2_drivers.png)
 
 * **OverTime Impact:** Employees working overtime experience an attrition rate of **30.27%** versus **10.34%** for non-overtime staff (~3x higher risk).
 * **Marital Status:** Single employees exhibit the highest attrition (**25.53%**) compared to married (**12.25%**) and divorced (**9.59%**) staff.
@@ -42,7 +42,7 @@ Evaluates operational, compensation, and lifestyle factors influencing employee 
 ### Report 3: Correlation & Cross-Tabulation Analysis
 Cross-evaluates compensation slabs, age demographics, and promotion timelines.
 
-![Correlation & Cross Tabulation](images/report3_correlation.png)
+![Correlation & Cross Tabulation](Images/report3_correlation.png)
 
 * **Salary Slab Sensitivity:** Compensation below 3k/month shows a severe attrition rate of **28.34%**, dropping to **10.90%** for the 5k–8k bracket.
 * **Age vs. Salary Interaction:** In the 18–25 age segment, lower salary brackets account for **43.02%** of attrition share.
